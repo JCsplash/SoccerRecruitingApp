@@ -1,0 +1,9 @@
+<ion-item tappable (click)="goCollegePage()">
+  <ion-thumbnail item-left>
+    <img [src]="college.img">
+  </ion-thumbnail>
+  <h2>{{college.name}}</h2>
+  <h3>Avg GPA: {{college.avg_gpa}} | Avg SAT: {{college.avg_sat}}</h3>
+  <p>Open Spot(s): {{college.position_need}}</p>
+  <!-- <button ion-button clear item-right>View</button> -->
+</ion-item>
