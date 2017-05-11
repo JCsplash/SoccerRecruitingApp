@@ -4,7 +4,7 @@ Steps to Run Soccer Recruiting App
 
 Method 1 (Via Ionic View)
 1. Download Ionic View App
-2. Ask Dean Bloembergen, CJ Mix, or Jack Chen to Share Access
+2. Ask Dean Bloembergen, Carl Johan Mix, or Jack Chen to Share Access
 3. Press View App
 4. Swipe Up to Give Feedback
 
